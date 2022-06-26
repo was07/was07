@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, Welcome to my profile
+![Metrics](https://metrics.lecoq.io/was07?template=classic&base.repositories=0&isocalendar=1&languages=1&lines=1&topics=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics.mode=starred&topics.sort=stars&topics.limit=15&config.timezone=Asia%2FDhaka)
 
 <!--
 **was07/was07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
