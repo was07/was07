@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Was‘</h1>
-<h3 align="center">A tech enthusiast and programmer by hobby, from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Was‘</h1>
+<h3 align="left">A tech enthusiast and programmer by hobby, from Bangladesh</h3>
 
 - 🔭 I’m currently working on **way too many projects**
 
